@@ -2,7 +2,7 @@
 function App() {
   return (
     <div>
-      <h1> Olá Zika! </h1>
+      <h1 className="text-primary"> Olá Zika! </h1>
     </div>
   );
 }
